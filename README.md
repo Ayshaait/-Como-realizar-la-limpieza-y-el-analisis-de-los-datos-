@@ -6,7 +6,7 @@ Este proyecto ha sido realizado en el contexto de la práctica 2 de la asignatur
 Aysha Ait Ouaddi El Mamouny
 
 # Contenido
-* ```Memoria```: Archivo pdf que contiene la documentación generada a partir de Rmarkdown.
+* ```Práctica 2 - Tipologia y ciclo de vida de los datos.pdf```: Archivo pdf que contiene la documentación generada a partir de Rmarkdown.
 * ```Código```: Archivo Rmd que contiene el código R del proyecto.
 * ```Datos_originales```: Fichero csv con los datos originales de la práctica.
 * ```Datos_finales```: Fichero csv con los datos finales de la práctica.
