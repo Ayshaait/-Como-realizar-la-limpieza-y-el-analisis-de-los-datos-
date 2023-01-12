@@ -7,9 +7,9 @@ Aysha Ait Ouaddi El Mamouny
 
 # Contenido
 * ```Práctica 2 - Tipologia y ciclo de vida de los datos.pdf```: Archivo pdf que contiene la documentación generada a partir de Rmarkdown.
-* ```Código```: Archivo Rmd que contiene el código R del proyecto.
-* ```Datos_originales```: Fichero csv con los datos originales de la práctica.
-* ```Datos_finales```: Fichero csv con los datos finales de la práctica.
+* ```Práctica 2 - Tipologia y ciclo de vida de los datos.pdf```: Archivo Rmd que contiene el código R del proyecto.
+* ```heart```: Fichero csv con los datos originales de la práctica.
+* ```heart_def```: Fichero csv con los datos finales de la práctica.
 
 
 # Enlace al vídeo explicativo
